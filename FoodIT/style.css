@@ -1,0 +1,94 @@
+body{
+    background-color: #1e1e1e;
+    background-repeat: repeat;
+    background-size: cover;
+}
+.background1{
+    background-color: #eddbc0;
+    width: 360px;
+    height: 800px;
+    margin-left: 580px;
+}
+.background2{
+    background-color: #dd5353;
+    height: 55.5px;
+    width: 360.01px;
+}
+.aboutus{
+    background-color: #b73e3e;
+    width: 306px;
+    height: 105px;
+    margin-top: 30px;
+    margin-left: 27px;
+}
+.pic1{
+    width: 50px;
+    height: 54px;
+    margin-top: 60px;
+    margin-left: 24px;
+    border-radius: 50%;
+}
+.pic2{
+    width: 50px;
+    height: 54px;
+    margin-top: -10px;
+    margin-left: 24px;
+    border-radius: 50%;
+}
+
+.pic3{
+    width: 50px;
+    height: 54px;
+    margin-top: -10px;
+    margin-left: 24px;
+    border-radius: 50%;
+}
+.pic4{
+    width: 50px;
+    height: 54px;
+    margin-top: -10px;
+    margin-left: 24px;
+    border-radius: 50%;
+}
+.pic5{
+    width: 50px;
+    height: 54px;
+    margin-top: -10px;
+    margin-left: 24px;
+    border-radius: 50%;
+}
+.p1{
+    margin-left: 120px;
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+.p2{
+    margin-left: 120px;
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+.p3{
+    margin-left: 120px;
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+.p4{
+    margin-left: 100px;
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+.p5{
+    margin-left: 122px;
+    margin-top: -40px;
+    font-family: sans-serif;
+}
+.header{
+    font-size: 50px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    color: #ffffff;
+    margin-top: -82px;
+    margin-left: 70px;
+    
+}
+
+

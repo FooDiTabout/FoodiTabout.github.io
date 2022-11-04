@@ -1,0 +1,44 @@
+body {
+   background-color: #EDDBC0;
+   background-size: cover;
+}
+
+
+.card-icon {
+   float: left;
+   max-width: 10%;
+   height: auto;
+   padding: 3px;
+ }
+ 
+
+ .card-title {
+  display: inline-block;
+  margin-left: 10px;
+  margin-top: 0;
+  padding: 0%;
+
+ }
+
+ .card-text {
+   margin: 0%;
+   margin-top: 0px;
+   margin-left: 50px;
+
+ }
+
+
+ .card-content {
+   margin-top: 1rem;
+   margin-bottom: 0;
+ }
+
+
+.card-body {
+   background-color: #D9D9D9;
+}
+
+ .bodyAbout{
+   background-color: #EDDBC0;
+   background-size: cover;
+ }
